@@ -1,0 +1,6 @@
+; $Id
+
+name = Frypan
+description = Autocorrect all text instances of "Drupal" using hook_page_alter()
+package = Other
+core = 7.x
