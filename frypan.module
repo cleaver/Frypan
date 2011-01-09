@@ -7,7 +7,6 @@
  * @param $page Nested array of renderable elements that make up the page.
  */
 function frypan_page_alter(&$page) {
-  dsm($page);
   frypan_autocorrect($page);
 }
 
