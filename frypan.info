@@ -2,5 +2,7 @@
 
 name = Frypan
 description = Autocorrect all text instances of "Drupal" using hook_page_alter()
-package = Other
+package = Novelty
+dependencies[] = bad_judgement
+files[] = frypan.test
 core = 7.x
