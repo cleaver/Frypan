@@ -8,3 +8,5 @@ Known issues:
 
  - doesn't update the node title.
  - pretty much has no practical use.
+ - can break page markup and cause some things to not work (like node edit).
+
